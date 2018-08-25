@@ -1,2 +1,2 @@
 # Cbus-Project
-Conducting bushiness on the internet final Project - SPRING 2018
+Conducting business on the internet final Project - SPRING 2018
